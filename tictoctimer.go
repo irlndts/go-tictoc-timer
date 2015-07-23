@@ -18,3 +18,8 @@ func (self *TicTocTimer) Toc() {
 func (self *TicTocTimer) TicToc() time.Duration {
 	return self.duration
 }
+
+//TODO
+func (self *TicTocTimer) Average() {
+
+}
